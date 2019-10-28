@@ -1,4 +1,4 @@
-# :simple_smile: JAVA Assignment :simple_smile:
+# :smile: JAVA Assignment :smile:
 
 ## 1. Friend List Management Program
 
