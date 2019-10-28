@@ -44,7 +44,7 @@
   - <img src="/img/result_1.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 1"></img><br>
 
 - *Result 2* : Add GUI
-  - <img src="/img/result_2.png" width="450px" height="300px" title="result_2_pic" alt="Result Picture 2"></img><br>
+  - <img src="/img/result_2.png" width="450px" height="200px" title="result_2_pic" alt="Result Picture 2"></img><br>
   
 - *Result 3* : Modify GUI
-  - <img src="/img/result_3.png" width="450px" height="300px" title="result_3_pic" alt="Result Picture 3"></img><br>
+  - <img src="/img/result_3.png" width="450px" height="200px" title="result_3_pic" alt="Result Picture 3"></img><br>
