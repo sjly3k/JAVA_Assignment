@@ -41,10 +41,10 @@
 ### Result Photo
 
 - *Result 1* : FULL Design of GUI
-  - <img src="/Silicon Valley Data Science⁩/result_img⁩/result_1.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 1"></img><br>
+  - <img src="/img/result_1.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 1"></img><br>
 
 - *Result 2* : Add GUI
-  - <img src="/Silicon Valley Data Science⁩/result_img⁩/result_2.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 2"></img><br>
+  - <img src="/img⁩/result_2.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 2"></img><br>
   
 - *Result 2* : Modify GUI
-  - <img src="/Silicon Valley Data Science⁩/result_img⁩/result_3.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 2"></img><br>
+  - <img src="/img⁩/result_3.png" width="450px" height="300px" title="result_1_pic" alt="Result Picture 2"></img><br>
