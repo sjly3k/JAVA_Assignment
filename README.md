@@ -1,4 +1,4 @@
-# :smile: JAVA Assignment :smile:
+# :smile: JAVA Assignment 2018-2 Fall Semester :smile:
 
 ## 1. Friend List Management Program
 
